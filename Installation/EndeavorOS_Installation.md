@@ -5,3 +5,5 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install flathub it.mijorus.gearlever
 
 ```
+
+Create GitHub access token with repo permissions.
